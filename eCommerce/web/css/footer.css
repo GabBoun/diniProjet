@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+.foot{
+	
+height: 70px;
+
+color:#FFFAFA;background-color:#DC143C;
+border-color:#080808;
+position: relative; bottom: 0; left: 0; right: 0;
+
+
+}

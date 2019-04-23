@@ -1,0 +1,41 @@
+*{margin:0px;padding:0px;}
+
+div {
+	display: inline-block;
+	vertical-align: top;
+	width: 22%;
+	border: dotted green 3px;
+	border-radius: 25px;
+	margin: 10px;
+	padding: 5px 15px;
+	background: #dfebff;
+}
+
+div img {
+	width: 100%;
+}
+
+
+html {
+	background: blue;
+}
+
+body {
+padding:5px 25px;
+border-radius:25px;
+	width: 80%;
+	margin: 5px auto;
+	background: #8eacff;
+}
+
+div.left{
+	display: inline-block;
+	vertical-align: top;
+	width: 15%;
+}
+
+div.right{
+	display: inline-block;
+	vertical-align: top;
+	width: 65%;
+}
